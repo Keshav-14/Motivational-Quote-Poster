@@ -1,0 +1,31 @@
+.main-div{
+    width: 1000px;
+    height: 700px;
+    margin-left: 18%;
+    margin-top: 40px;
+    text-align: center;
+}
+
+h1{
+    text-transform: uppercase;
+    font-family: 'Libre Baskerville', serif;
+    font-size: 50px;
+    color: orange;
+}
+
+.text-font{
+    font-family: 'Caveat', cursive;
+    color: orange;
+    font-size: 30px;
+}
+
+img{
+    width: 80%;
+    border: 2px solid orange;
+    color: orange;
+}
+
+#quote{
+    text-align: right;
+    margin-right: 19%;
+}
